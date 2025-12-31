@@ -1,3 +1,12 @@
 [submodule "api-sample"]
 	path = api-sample
 	url = https://github.com/yah561899/api-sample.git
+[submodule "api-sample-manifest"]
+	path = api-sample-manifest
+	url = https://github.com/yah561899/api-sample-manifest.git
+[submodule "CICD-sample"]
+	path = CICD-sample
+	url = https://github.com/yah561899/CICD-sample.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/yah561899/rabbitmq.git
