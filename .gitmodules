@@ -12,3 +12,9 @@
 	url = https://github.com/yah561899/rabbitmq.git
 [submodules "rabbitmq"]
 	branch = main
+[submodules "CICD-sample"]
+	branch = main
+[submodules "api-sample"]
+	branch = main
+[submodules "api-sample-manifest"]
+	branch = main
