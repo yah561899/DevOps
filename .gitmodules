@@ -1,0 +1,3 @@
+[submodule "api-sample"]
+	path = api-sample
+	url = https://github.com/yah561899/api-sample.git
