@@ -10,3 +10,5 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/yah561899/rabbitmq.git
+[submodules "rabbitmq"]
+	branch = main
